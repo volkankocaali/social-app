@@ -5,6 +5,8 @@ import NewsFeed from "./views/NewsFeed";
 import UserShow from "./views/Users/Show";
 
 Vue.use(VueRouter);
+// Bu bir test git için.
+
 
 export default new VueRouter({
    mode : 'history',
