@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7e795c51-2085-4f2b-b3bd-cba35b697975" name="portaltest" url="http://portaltest.magdeburger.com.tr">
+        <fileTransfer host="portaltest.magdeburger.com.tr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1fa409ca-1b92-4417-80b1-8ef57ba33d9d" name="portal" url="http://portal.magdeburger.com.tr">
+        <fileTransfer host="portal.magdeburger.com.tr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="37da879c-c2d3-4b7d-8a78-766022e2899c" name="valiantcar" url="http://srvc54.turhost.com">
+        <fileTransfer host="srvc54.turhost.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
