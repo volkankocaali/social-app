@@ -3,7 +3,7 @@
         <div class="flex justify-between items-center">
             <div>
                 <div class="w-8">
-                    <img class="w-8 h-8 object-cover rounded-full" src="https://maxcdn.icons8.com/Share/icon/Users//user_male_circle_filled1600.png" alt="profile image for user">
+                    <img class="w-8 h-8 object-cover rounded-full" src="https://user-images.githubusercontent.com/11250/39013954-f5091c3a-43e6-11e8-9cac-37cf8e8c8e4e.jpg" alt="profile image for user">
                 </div>
             </div>
             <div class="flex-1 mx-4">
